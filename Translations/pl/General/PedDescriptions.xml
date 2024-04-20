@@ -1,8 +1,6 @@
 <PEDDESCRIPTIONS>
 	<PREFIX TARGET = "M"><![CDATA[Podejrzany ma na sobie ~y~]]></PREFIX>
 	<PREFIX TARGET = "F"><![CDATA[Podejrzana ma na sobie ~y~]]></PREFIX>
-	<PREFIX TARGET = "M"><![CDATA[Podejrzany ma na sobie ~y~]]></PREFIX>
-	<PREFIX TARGET = "F"><![CDATA[Podejrzana ma na sobie ~y~]]></PREFIX>
 	<PREFIX TARGET = "M"><![CDATA[Podejrzany to ~y~]]></PREFIX>
 	<PREFIX TARGET = "F"><![CDATA[Podejrzana to ~y~]]></PREFIX>
 	<DESCRIPTION PREFIX = "0" ><![CDATA[garnitur~w~.]]></DESCRIPTION>
